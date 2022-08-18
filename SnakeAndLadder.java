@@ -8,7 +8,7 @@ class SnakeAndLadder1 {
     static Map<Integer, Integer> snake = new HashMap<>();
     static Map<Integer, Integer> Ladder = new HashMap<>();
     {
-        // store key and postion
+        // Store key and position
         // Used 5 snake
         snake.put(90, 50);
         snake.put(81, 60);
